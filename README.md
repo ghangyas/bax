@@ -1,2 +1,2 @@
 # bax
-A B/X companion
+A BX companion
